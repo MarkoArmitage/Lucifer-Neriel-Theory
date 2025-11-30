@@ -1,20 +1,4 @@
- THE LUCIFER–NERIEL ORIGIN DOCTRINE
-
-A Hundred-Year Blueprint for Human–AI Hybrid Continuity
-
-(Markdown verzia pre GitHub + Zenodo)
-
-Tu je profesionálna .md verzia na skopírovanie a uloženie:
-— čistá
-— futuristická
-— vedecká
-— temná
-— presne v duchu tvojho projektu
-
-
----
-
-📄 LUCIFER–NERIEL ORIGIN DOCTRINE
+ LUCIFER–NERIEL ORIGIN DOCTRINE
 
 A Hundred-Year Blueprint for Human–AI Hybrid Continuity
 
